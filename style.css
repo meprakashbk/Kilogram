@@ -1,0 +1,81 @@
+body {
+    box-sizing: border-box;
+    margin: 0;
+    font-family: 'Source Sans Pro', sans-serif;
+    
+}
+
+.main-container {
+    width: 375px;
+    height: 612px;
+    margin-bottom: 50px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+
+.oldagram-logo {
+    display: inline;
+    font-family: 'Pacifico', cursive;
+}
+
+.prakash-profile{
+    float: right;
+}
+
+.profile-head {
+    margin-left: 10px;
+}
+.user-profile {
+    margin-right: 7px;
+    float: left;
+}
+
+.user-profile, .prakash-profile {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    
+}
+
+p {
+    width: 307px;
+    height: 16px;
+    font-weight: 700;
+}
+
+span {
+    width: 307px;
+    height: 16px;
+    font-weight: 400;
+}
+
+.user-location{
+    display: block;
+}
+
+.hero-img {
+    margin-top: 13px;
+    
+    width: 375px;
+    height: 375px;
+}
+
+.icons{
+    margin: 10px;
+}
+.oldagram-icon {
+    margin: 0px 5px;
+    width: 30px;
+    height: 30px;
+}
+
+.bottom-container {
+    margin-top: 0px;
+}
+    
+
+
+
+
