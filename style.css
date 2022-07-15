@@ -77,8 +77,8 @@ span {
     
 @media (max-width: 415px) {
     .main-container {
-        width: 375vw;
-        height: 612vh;
+        width: 100vw;
+        height: 100vh;
     }
 }
 
