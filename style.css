@@ -75,6 +75,13 @@ span {
     margin-top: 0px;
 }
     
+@media (max-width: 415px) {
+    .main-container {
+        width: 375vw;
+        height: 612vh;
+    }
+}
+
 
 
 
