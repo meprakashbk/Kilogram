@@ -76,11 +76,7 @@ span {
 }
 
 
-@media (max-width: 480px) {
-    .main-container {
-        color: red;
-    }
-}
+
 
 
 
