@@ -74,7 +74,8 @@ span {
 .bottom-container {
     margin-top: 0px;
 }
-    
+
+/*
 @media (max-width: 415px) {
     .main-container {
         width: 100vw;
