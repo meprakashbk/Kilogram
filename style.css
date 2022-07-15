@@ -75,14 +75,13 @@ span {
     margin-top: 0px;
 }
 
-/*
-@media (max-width: 415px) {
+
+@media (max-width: 480px) {
     .main-container {
-        width: 100vw;
-        height: 100vh;
+        color: red;
     }
 }
-*/
+
 
 
 
